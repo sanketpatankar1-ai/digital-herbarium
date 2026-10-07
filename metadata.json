@@ -1,0 +1,6 @@
+{
+  "name": "Digital Herbarium — Botanical Field Archive",
+  "description": "An interactive botanical investigation and leaf catalog by The Botanical Detectives, featuring comprehensive leaf morphology, taxonomy, and educational resources.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
